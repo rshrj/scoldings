@@ -18,6 +18,10 @@ module.exports = {
   plugins: ['react'],
   rules: {
     'no-console': 'off',
-    'comma-dangle': ['error', 'never']
+    'comma-dangle': ['error', 'never'],
+    'no-multi-assign': 'off',
+    'arrow-parens': 'off',
+    'implicit-arrow-linebreak': 'off',
+    'consistent-return': 'off'
   }
 };

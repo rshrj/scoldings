@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb://localhost/scoldings"
+  "mongoURI": "mongodb://localhost/scoldings",
+  "jwtSecret": "scoldmebaby"
 }
