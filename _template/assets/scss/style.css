@@ -1,0 +1,58 @@
+.content-wrap {
+  width: 100%;
+  min-height: 92vh;
+  padding: 4rem;
+}
+
+textarea {
+  height: 8rem !important;
+}
+
+.scold-textarea-wrapper {
+  margin-bottom: 0;
+}
+
+.logo {
+  padding: 5rem;
+}
+
+.logo-text {
+  font-size: 10rem;
+  font-weight: 100;
+}
+
+.login-form {
+  width: 40rem;
+}
+
+.title {
+  font-size: 28px;
+  line-height: 24px;
+}
+
+#txt2 {
+  font-size: 36px;
+  line-height: 24px;
+}
+
+#txt3 {
+  font-size: 21px;
+  line-height: 24px;
+}
+
+.material-icons {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  vertical-align: top;
+}
+
+a {
+  color: #8e24aa;
+}
+
+a:hover {
+  color: #ea80fc !important;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+}
