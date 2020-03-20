@@ -34,6 +34,7 @@
     "nodemon": "^2.0.2"
   },
   "dependencies": {
+    "acorn": "^7.1.1",
     "bcryptjs": "^2.4.3",
     "client": "file:client",
     "config": "^3.3.0",
